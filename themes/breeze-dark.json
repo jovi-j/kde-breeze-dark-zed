@@ -223,7 +223,7 @@
           },
           "link_uri": {
             "color": "#3daee9",
-            "font_style": "underline"
+            "font_style": "italic"
           },
           "namespace": {
             "color": "#fcfcfc"
