@@ -1,0 +1,7 @@
+{
+  "name": "KDE Breeze Dark",
+  "version": "0.0.1",
+  "description": "KDE's Breeze dark theme for Zed.",
+  "authors": ["kde-community","jovi"],
+  "repository": "https://github.com/jovij/kde-breeze-dark-zed"
+}
