@@ -1,5 +1,5 @@
-id = "kde-dark-breeze"
-name = "KDE Dark Breeze"
+id = "kde-breeze-dark-theme"
+name = "KDE Breeze Dark Theme"
 version = "0.1.0"
 schema_version = 1
 authors = ["kde-community", "jovi-j"]
